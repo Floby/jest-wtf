@@ -1,3 +1,5 @@
+[![Build Status][travis-image]][travis-url] ← Check these bugs out
+
 WTF Jest!
 =========
 
@@ -23,3 +25,6 @@ Contributing
 You are free to add your own weird test case demonstrating a curious or unintuitive behaviour
 via [Pull Request](https://github.com/Floby/jest-wtf/pulls).
 
+
+[travis-image]: http://img.shields.io/travis/Floby/jest-wtf/master.svg?style=flat
+[travis-url]: https://travis-ci.org/Floby/jest-wtf
