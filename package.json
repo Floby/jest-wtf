@@ -1,0 +1,28 @@
+{
+  "name": "jest-wtf",
+  "version": "1.0.0",
+  "description": "A collection of curious jest behaviours in a node setting",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Floby/jest-wtf.git"
+  },
+  "keywords": [
+    "jest",
+    "wtf",
+    "bugs",
+    "quirks"
+  ],
+  "author": "Florent Jaby <florent.jaby@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Floby/jest-wtf/issues"
+  },
+  "homepage": "https://github.com/Floby/jest-wtf#readme"
+}
